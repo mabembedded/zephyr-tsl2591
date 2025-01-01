@@ -5,7 +5,7 @@ manifest:
 
   remotes:
     - name: mab
-      url-base: https://github.com/mabembedded/zephyr-tsl2591.gith
+      url-base: https://github.com/mabembedded/
 
   projects:
     - name: zephyr
