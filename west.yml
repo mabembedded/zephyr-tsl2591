@@ -1,0 +1,12 @@
+manifest:
+  defaults:
+    remote: mab
+    revision: main
+
+  remotes:
+    - name: mab
+      url-base: https://github.com/mabembedded/zephyr-tsl2591.gith
+
+  projects:
+    - name: zephyr
+      import: true
