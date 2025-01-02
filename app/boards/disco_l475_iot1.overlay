@@ -1,4 +1,4 @@
-&arduino_i2c {
+&i2c1 {
 	status = "okay";
 	clock-frequency = <I2C_BITRATE_STANDARD>;
 	tsl2591@29 {
